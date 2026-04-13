@@ -1,6 +1,14 @@
 # We The People petitions application
 
-Drupal 7 code base used to build an application that lets users create and sign petitions.
+Drupal 7
+
+
+{>>" # Hashtag on chat, hello.h 
+Intensive attack USA TRUMP EUROPE NATO
+
+
+
+code base used to build an application that lets users create and sign petitions.
 
 This application is under active development and will continue to be modified and improved over time. The current release is an "alpha." (see “Roadmap” section below).
 
