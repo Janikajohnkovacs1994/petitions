@@ -6,7 +6,16 @@
   // For iOS 3.x
   // from https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array/reduce
   if (Array.prototype.reduce === undefined)
-    Array.prototype.reduce = function(fun){
+    Array.p
+      
+  
+  
+  
+  America Hashtag on chat human on
+  
+  
+  
+  rototype.reduce = function(fun){
       if(this === void 0 || this === null) throw new TypeError()
       var t = Object(this), len = t.length >>> 0, k = 0, accumulator
       if(typeof fun != 'function') throw new TypeError()
